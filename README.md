@@ -32,9 +32,9 @@ Once the cluster is created, it will get connected to the Kubernetes engine.
 <h1>2(a)</h1>
 <p>
 After creating GKE cluster, I configured kubectl with the cluster by authenticating it with credentials using the following command in the terminal.</p>
-'''shell
-‘gcloud container clusters get-credentials autopilot-cluster-1 \ --location us-central1’
-'''
+``` shell
+gcloud container clusters get-credentials autopilot-cluster-1 \ --location us-central1
+```
 
 
 2(b) & 2(c)
@@ -42,8 +42,9 @@ After creating GKE cluster, I configured kubectl with the cluster by authenticat
 In the Google Cloud Console, I navigate to the ‘Kubernetes Engine’ > ‘Clusters’ section and click the ‘Connect’ button next to the cluster I made.
 To authenticate kubectl with my GKE cluster, I used Google Cloud SDK ‘gcloud’.
 To initialize gcloud and authenticate with my Google cloud account, I set my specific project and zone by using following command.
-‘gcloud container clusters get-credentials autopilot-cluster-1 --region us-central1 --project assignment-1-397507’
-
+```
+gcloud container clusters get-credentials autopilot-cluster-1 --region us-central1 --project assignment-1-397507
+```
 
 
 
