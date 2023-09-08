@@ -1,4 +1,5 @@
 # isec6000-assignment1-task1
+<h1>1a</h1>
 <p>
 After successfully creating an account, I logged into the Google Cloud Console.
 I created a new project by filling in the project details.
@@ -32,16 +33,16 @@ Once the cluster is created, it will get connected to the Kubernetes engine.
 <h1>2(a)</h1>
 <p>
 After creating GKE cluster, I configured kubectl with the cluster by authenticating it with credentials using the following command in the terminal.</p>
-``` shell
+```
 gcloud container clusters get-credentials autopilot-cluster-1 \ --location us-central1
 ```
 
 
-2(b) & 2(c)
-
+<h1>2(b) & 2(c)</h1>
+<p>
 In the Google Cloud Console, I navigate to the ‘Kubernetes Engine’ > ‘Clusters’ section and click the ‘Connect’ button next to the cluster I made.
 To authenticate kubectl with my GKE cluster, I used Google Cloud SDK ‘gcloud’.
-To initialize gcloud and authenticate with my Google cloud account, I set my specific project and zone by using following command.
+To initialize gcloud and authenticate with my Google cloud account, I set my specific project and zone by using following command.</p>
 ```
 gcloud container clusters get-credentials autopilot-cluster-1 --region us-central1 --project assignment-1-397507
 ```
@@ -49,7 +50,9 @@ gcloud container clusters get-credentials autopilot-cluster-1 --region us-centra
 
 
 
-3 (all parts)
-
+<h1>3 (all parts)</h1>
+<p>
 To setup a GitHub repository to store my project files, I logged in to my GitHub account.
-I clicked on the ‘+’ icon located in the top-right hand side of the GitHub, a drop down opens, I selected ‘New Repository’ from it. Then I give name to the repository which is ‘isec6000-assignment1-task1’ and selected the repository visibility to ‘Public’. While clicking ‘Create repository’, I initialize it with README file. ‘ADD LINK HERE’
+I clicked on the ‘+’ icon located in the top-right hand side of the GitHub, a drop down opens, I selected ‘New Repository’ from it. Then I give name to the repository which is ‘isec6000-assignment1-task1’ and selected the repository visibility to ‘Public’. While clicking ‘Create repository’</p>
+  
+I initialize it with README file. ‘ADD LINK HERE’
