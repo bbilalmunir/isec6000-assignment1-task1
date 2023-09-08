@@ -26,6 +26,7 @@ After doing all the configuration settings, I can easily deploy applications on 
 The important step that can have a significant impact on our application’s compatibility and security features is choosing the right Kubernetes version.
 By reviewing the release notes of all given Kubernetes version, we can see the insights into the latest features, fixes, and security updates that comes with every release.
 </p>
+
 ![1c_d](https://github.com/bbilalmunir/isec6000-assignment1-task1/assets/143603777/b22a2b16-fad6-4846-95a6-18e4a6f6c471)
 
 
