@@ -50,7 +50,7 @@ gcloud container clusters get-credentials autopilot-cluster-1 --region us-centra
 ```
 
 
-<h1>3 (all parts)</h1>
+<h1>3</h1>
 <p>
 To setup a GitHub repository to store my project files, I logged in to my GitHub account.
 I clicked on the ‘+’ icon located in the top-right hand side of the GitHub, a drop down opens, I selected ‘New Repository’ from it. Then I give name to the repository which is ‘isec6000-assignment1-task1’ and selected the repository visibility to ‘Public’. While clicking ‘Create repository’ I initialize it with README file. <a href="https://github.com/bbilalmunir/isec6000-assignment1-task1">README.md<a>
