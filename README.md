@@ -1,5 +1,5 @@
 # isec6000-assignment1-task1
-<h1>1a</h1>
+<h1>1(a)</h1>
 <p>
 After successfully creating an account, I logged into the Google Cloud Console.
 I created a new project by filling in the project details.
