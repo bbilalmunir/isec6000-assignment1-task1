@@ -33,6 +33,7 @@ Once the cluster is created, it will get connected to the Kubernetes engine.
 <h1>2(a)</h1>
 <p>
 After creating GKE cluster, I configured kubectl with the cluster by authenticating it with credentials using the following command in the terminal.</p>
+
 ```
 gcloud container clusters get-credentials autopilot-cluster-1 \ --location us-central1
 ```
